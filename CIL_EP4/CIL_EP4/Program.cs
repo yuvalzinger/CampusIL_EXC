@@ -10,7 +10,6 @@ namespace CIL_EP4
     {
         static void Main(string[] args)
         {
-            #region ep4p5
             //Ex1();
             //Ex2();
             //Ex3();
@@ -21,14 +20,10 @@ namespace CIL_EP4
             //Seasons();
             //Show();
 
-            #endregion
-
-
 
             Console.ReadLine();
         }
 
-        #region ep4p5
         public static void Ex1()
         {
             int num = int.Parse(Console.ReadLine());
@@ -114,7 +109,5 @@ namespace CIL_EP4
         {
 
         }
-
-        #endregion
     }
 }
