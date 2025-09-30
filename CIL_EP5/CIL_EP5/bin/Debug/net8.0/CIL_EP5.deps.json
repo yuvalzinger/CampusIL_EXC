@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CIL_EP5/1.0.0": {
+        "runtime": {
+          "CIL_EP5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIL_EP5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

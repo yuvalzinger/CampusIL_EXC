@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E544FC3A-7178-4B09-9D37-0C654B365795}|CIL_EP5\\CIL_EP5.csproj|d:\\vs repos\\campusil_exc\\cil_ep5\\cil_ep5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544FC3A-7178-4B09-9D37-0C654B365795}|CIL_EP5\\CIL_EP5.csproj|solutionrelative:cil_ep5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\Program.cs",
+              "RelativeDocumentMoniker": "CIL_EP5\\Program.cs",
+              "ToolTip": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\Program.cs*",
+              "RelativeToolTip": "CIL_EP5\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwFgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:04:11.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
