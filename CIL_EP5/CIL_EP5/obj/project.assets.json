@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\CIL_EP5.csproj",
-      "projectName": "CIL_EP5",
-      "projectPath": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\CIL_EP5.csproj",
+      "projectUniqueName": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\CIL_EP4.csproj",
+      "projectName": "CIL_EP4",
+      "projectPath": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\CIL_EP4.csproj",
       "packagesPath": "C:\\Users\\Yuval\\.nuget\\packages\\",
       "outputPath": "D:\\VS repos\\CampusIL_EXC\\CIL_EP5\\CIL_EP5\\obj\\",
       "projectStyle": "PackageReference",
