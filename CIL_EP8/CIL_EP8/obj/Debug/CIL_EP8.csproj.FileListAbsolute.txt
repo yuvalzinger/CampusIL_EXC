@@ -1,0 +1,7 @@
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.exe.config
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.exe
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.pdb
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.AssemblyReference.cache
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.CoreCompileInputs.cache
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.exe
+C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.pdb
