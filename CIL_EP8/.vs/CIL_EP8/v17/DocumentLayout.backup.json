@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yuval Singer\\source\\repos\\CIL_EP8\\",
+  "WorkspaceRootPath": "D:\\VS repos\\CampusIL_EXC\\CIL_EP8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68EDB083-455A-47AE-A6A0-837AB448391A}|CIL_EP8\\CIL_EP8.csproj|c:\\users\\yuval singer\\source\\repos\\cil_ep8\\cil_ep8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68EDB083-455A-47AE-A6A0-837AB448391A}|CIL_EP8\\CIL_EP8.csproj|d:\\vs repos\\campusil_exc\\cil_ep8\\cil_ep8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68EDB083-455A-47AE-A6A0-837AB448391A}|CIL_EP8\\CIL_EP8.csproj|solutionrelative:cil_ep8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yuval Singer\\source\\repos\\CIL_EP8\\CIL_EP8\\Program.cs",
+              "DocumentMoniker": "D:\\VS repos\\CampusIL_EXC\\CIL_EP8\\CIL_EP8\\Program.cs",
               "RelativeDocumentMoniker": "CIL_EP8\\Program.cs",
-              "ToolTip": "C:\\Users\\Yuval Singer\\source\\repos\\CIL_EP8\\CIL_EP8\\Program.cs",
+              "ToolTip": "D:\\VS repos\\CampusIL_EXC\\CIL_EP8\\CIL_EP8\\Program.cs",
               "RelativeToolTip": "CIL_EP8\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T18:25:58.501Z",
               "EditorCaption": ""

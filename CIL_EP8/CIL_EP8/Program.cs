@@ -15,7 +15,10 @@ namespace CIL_EP8
             //p8ex8();
             //p8ex9();
             //p8ex10();
-            p8ex12();
+            //p8ex12();
+            //p8ex13();
+            //p8ex14();
+            p8ex15();
 
             Console.ReadLine();
         }
@@ -35,7 +38,7 @@ namespace CIL_EP8
                     {
                         //sub length: 5
                         //were at j
-                        //wall at s.length
+                        //wall at str.length
                         if (5 + j <= s.Length)
                         {
                             string substring = s.Substring(j, 5);
@@ -117,6 +120,68 @@ namespace CIL_EP8
                     p += s[i];
             }
             Console.WriteLine(p);
+        }
+        public static void p8ex13()
+        {
+            string strWO3;
+            string str = Console.ReadLine();
+
+            if (str.Length > 2)
+            {
+                string subs = str.Substring(str.Length - 3, 3);
+                if (subs == "ing")
+                {
+                    strWO3 = str.Substring(0, str.Length - 3);
+                    Console.WriteLine($"{strWO3}ly");
+                }
+                else
+                    Console.Write(str.Length > 3 ? $"{str}ing\n" : "");
+            }
+            else if (str == "do")
+                Console.WriteLine("do");
+        }
+        public static void p8ex14()
+        {
+            Console.Write("Enter a string: ");
+            string str = Console.ReadLine();
+
+            int count = 0;
+            string newStr = "";
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == 'I' && count < 3)
+                {
+                    newStr += "We";
+                    count++;
+                }
+                else
+                    newStr += str[i];
+            }
+
+            Console.WriteLine(newStr);
+        }
+        public static void p8ex15()
+        {
+            string str = Console.ReadLine(), newStr = "";
+            int currentLetter = 0;
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                char ch = str[i];
+                if (ch == ' ')
+                    newStr += " ";
+                else
+                {
+                    if (currentLetter % 2 == 0)
+                        newStr += Char.ToUpper(ch);
+                    else
+                        newStr += Char.ToLower(ch);
+                    
+                    currentLetter++;
+                }
+            }
+            Console.WriteLine(newStr);
         }
     }
 }

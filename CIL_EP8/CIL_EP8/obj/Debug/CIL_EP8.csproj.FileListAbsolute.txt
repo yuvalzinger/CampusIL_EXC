@@ -5,3 +5,10 @@ C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.Asse
 C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.CoreCompileInputs.cache
 C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.exe
 C:\Users\Yuval Singer\source\repos\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.pdb
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.exe.config
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.exe
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\bin\Debug\CIL_EP8.pdb
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.AssemblyReference.cache
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.csproj.CoreCompileInputs.cache
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.exe
+D:\VS repos\CampusIL_EXC\CIL_EP8\CIL_EP8\obj\Debug\CIL_EP8.pdb
