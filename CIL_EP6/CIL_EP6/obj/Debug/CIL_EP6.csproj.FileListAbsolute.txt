@@ -1,0 +1,7 @@
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\bin\Debug\CIL_EP6.exe.config
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\bin\Debug\CIL_EP6.exe
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\bin\Debug\CIL_EP6.pdb
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\obj\Debug\CIL_EP6.csproj.AssemblyReference.cache
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\obj\Debug\CIL_EP6.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\obj\Debug\CIL_EP6.exe
+C:\Users\Yuval\source\repos\CIL_EP6\CIL_EP6\obj\Debug\CIL_EP6.pdb
